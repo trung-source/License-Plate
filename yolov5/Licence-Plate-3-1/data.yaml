@@ -1,5 +1,0 @@
-names:
-- biensoxe
-nc: 1
-train: Licence-Plate-3-1/train/images
-val: Licence-Plate-3-1/valid/images
